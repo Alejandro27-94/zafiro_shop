@@ -1,0 +1,62 @@
+body{
+    background: url(./img/fondo_zafiro.PNG);
+
+}
+
+*{
+    color: white;
+    text-align: center;
+
+}
+
+input{
+    color:red;
+}
+
+.enviar {
+    color:cornflowerblue;
+    font-size: 30spx;
+}
+
+* div img {
+   width: 20%;
+   margin: 1rem;
+   padding: 1rem;
+   border: 1px solid;
+   
+   text-align: center;
+}
+
+
+.ok {
+    text-align: center;
+    width: 180%;
+    padding: 12px;
+    background-color: #4e8;
+    color: #fff;
+
+
+}
+
+.ups {
+    text-align: center;
+    width: 180%;
+    padding: 12px;
+    background-color: #a22;
+    color: #fff;
+
+}
+
+label {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 0 auto;
+  }
+
+select {
+    margin-bottom: 10px;
+    margin-top: 10px;
+  }
+
+
