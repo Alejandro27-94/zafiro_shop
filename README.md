@@ -1,1 +1,1 @@
-En este proyecto interactio con HTML, CSS, PHP y SQL (xampp).
+En este proyecto interactuo con HTML, CSS, PHP y SQL (xampp).
